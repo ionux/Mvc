@@ -7,7 +7,12 @@
 #### Actual behavior:
 
 
-#### Version of `Microsoft.AspNetCore.App` or `Microsoft.AspNetCore.All` used:
+#### Environment Information:
+- **TargetFramework (can be found in .csproj file):**
+
+
+- **Version of `Microsoft.AspNetCore.Mvc` or `Microsoft.AspNetCore.App` or `Microsoft.AspNetCore.All`:**
+
 
 
 <!--
